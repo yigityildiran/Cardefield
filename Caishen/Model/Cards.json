@@ -1,0 +1,362 @@
+[
+    {
+        "categoryName": "Biology 2Q",
+        "sets": [
+            { 
+                "setName": "Genetics",
+                "cards": [
+                    { "term" : "DNA", "definition" : "The molecule inside cells that contains the genetic information responsible for the development and function of an organism." },
+                    { "term" : "Chromosome", "definition" : "A structure found inside the nucleus of a cell. A chromosome is made up of proteins and DNA organized into genes. Each cell normally contains 23 pairs of chromosomes." },
+                    { "term" : "Allele", "definition" : "An allele is one of two or more versions of DNA sequence (a single base or a segment of bases) at a given genomic location." },
+                    { "term" : "Karyogram", "definition" : "By convention the chromosomes are arranged into the pattern shown above and the resulting image is called a karyogram." },
+                    { "term" : "Haploid Cell", "definition" : "Cells with only one set of chromosomes are haploid and are labelled with n" },
+                    { "term" : "Diploid Cell", "definition" : "Cells with two sets of chromosomes are diploid and are labelled with 2n" },
+                    { "term" : "Genotype", "definition" : "The genetic makeup of an organism is called its genotype" },
+                    { "term" : "Phenotype", "definition" : "Organism's observable traits are its phenotype" }
+                ]
+            },
+            {
+                "setName": "Cell Metabolism",
+                "cards": [
+                    { "term" : "Calorimeter", "definition" : "Device used to measure the amount of energy produced in a chemical reaction." },
+                    { "term" : "ATP Molecule", "definition" : "Adenosine Triphosphate" },
+                    { "term" : "Food", "definition" : "Source of Energy" },
+                    { "term" : "Phosphorylation", "definition" : "Transfer of Phospahte from ATP to another molecule" },
+                    { "term" : "Fermentation", "definition" : "Energy gain (producing ATP) without the presence of oxygen" }
+                ]
+            }, 
+            {
+                "setName": "Cell Division",
+                "cards": [
+                    { "term" : "Division of Prokaryotic Cell", "definition" : "The division can be occured with Binary Fision or Clones" },
+                    { "term" : "Division of Eukaryotic cell", "definition" : "There are two main phases in division of Eukaryotic cell. These are Interphase and Mitotic phase" },
+                    { "term" : "Interphase", "definition" : "The stage in the development of a cell between two successive divisions" },
+                    { "term" : "Mitotic(M) phase", "definition" : "The phase which includes two division. These are Mitosis and Cytokinesis." },
+                    { "term" : "How many stages are there in Interphase?", "definition" : "Interphase is composed of G1 phase (cell growth), followed by S phase (DNA synthesis), followed by G2 phase (cell growth)." },
+                    { "term" : "Mitosis", "definition" : "Mitosis is a process of cell duplication, in which one cell divides into two genetically identical daughter cells" },
+                    { "term" : "Meiosis", "definition" : "A special form of cell division in which each daughter cell receives half the amount of DNA as the parent cell. Meiosis occurs during formation of egg and sperm cells in mammals." },
+                    { "term" : "Centrioles", "definition" : "It helps with cell division for animal cells" },
+                    { "term" : "Stages of Mitotis", "definition" : "There are 4 stages of mitosis. These are Prophase, Metaphase, Anaphase, Telophase " },
+                    { "term" : "Stages of Meiosis ", "definition" : "There are totally 8 stages of Meiosis because the cell division occurs twice in Meiosis. These are Prophase 1, Metaphase 1, Anaphase 1, Telophase 1, Prophase 2, Metaphase 2, Anaphase 2, Telophase 2" }
+                ]
+            }
+        ]    
+    },
+    {
+        "categoryName": "History 2Q",
+        "sets": [
+            { 
+                "setName": "Slave Trade",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
+                ]
+            },
+            {
+                "setName": "Policies",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            }, 
+            {
+                "setName": "World War One",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-6", "definition" : "Definition-6" },
+                    { "term" : "Term-7", "definition" : "Definition-7" },
+                    { "term" : "Term-8", "definition" : "Definition-8" },
+                    { "term" : "Term-9", "definition" : "Definition-9" },
+                    { "term" : "Term-10", "definition" : "Definition-10" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" }
+                ]
+            }
+        ]
+    }, 
+    {
+        "categoryName": "Physics 2Q",
+        "sets": [
+            { 
+                "setName": "Gas Laws",
+                "cards": [
+                    { "term" : "Gas Laws", "definition" : "The gas laws were developed at the end of the 18th century, when scientists began to realize that relationships between pressure, volume and temperature of a sample of gas could be obtained which would hold to approximation for all gases." },
+                    { "term" : "Boyle's Gas Law", "definition" : "Boyle's Law states that the volume of a given amount of gas held at constant temperature varies inversely with the applied pressure when the temperature and mass are constant." },
+                    { "term" : "Charles's Gas Law", "definition" : "Charles's law, a statement that the volume occupied by a fixed amount of gas is directly proportional to its absolute temperature, if the pressure remains constant." },
+                    { "term" : "Gay-Lussac's Gas Law", "definition" : "Gay Lussac's Law states that the pressure of a given amount of gas held at constant volume is directly proportional to the Kelvin temperature." },
+                    { "term" : "Avogadro's Gas Law", "definition" : "Amadeo Avogadro was an Italian physicist who stated, in 1811, that the volume of any gas is proportional to the number of molecules of gas (measured in Moles – symbol mol). In other words if the amount of gas increases, then so does its volume." },
+                    { "term" : "Ideal Gas Law", "definition" : "The ideal gas law, also called the general gas equation, is the equation of state of a hypothetical ideal gas. It is a good approximation of the behavior of many gases under many conditions, although it has several limitations. It was first stated by Benoît Paul Émile Clapeyron in 1834 as a combination of the empirical Boyle's law, Charles's law, Avogadro's law, and Gay-Lussac's law." }
+                ]
+            },
+            {
+                "setName": "Heat",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-5", "definition" : "Definition-5" }
+                ]
+            }, 
+            {
+                "setName": "Density",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-6", "definition" : "Definition-6" },
+                    { "term" : "Term-7", "definition" : "Definition-7" },
+                    { "term" : "Term-8", "definition" : "Definition-8" },
+                    { "term" : "Term-9", "definition" : "Definition-9" },
+                    { "term" : "Term-10", "definition" : "Definition-10" }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "Geography 2Q",
+        "sets": [
+            {
+                "setName": "Tourism",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            },
+            {
+                "setName": "Imigration",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            },
+            {
+                "setName": "Energy Resources",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-6", "definition" : "Definition-6" },
+                    { "term" : "Term-7", "definition" : "Definition-7" },
+                    { "term" : "Term-8", "definition" : "Definition-8" },
+                    { "term" : "Term-9", "definition" : "Definition-9" },
+                    { "term" : "Term-10", "definition" : "Definition-10" }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "Chemistry 2Q",
+        "sets": [
+            {
+                "setName": "Empricial and Molecular Formula",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            },
+            {
+                "setName": "Exothermic and Endothermic Reactions",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            },
+            {
+                "setName": "Quantitive Chemistry",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-6", "definition" : "Definition-6" },
+                    { "term" : "Term-7", "definition" : "Definition-7" },
+                    { "term" : "Term-8", "definition" : "Definition-8" },
+                    { "term" : "Term-9", "definition" : "Definition-9" },
+                    { "term" : "Term-10", "definition" : "Definition-10" }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "Chemistry 3Q",
+        "sets": [
+            {
+                "setName": "Electrons",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                ]
+            },
+            {
+                "setName": "Stoichiometry",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                ]
+            },
+            {
+                "setName": "Periodicity",
+                "cards": [
+                    { "term" : "Term-1", "definition" : "Definition-1" },
+                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "Term-3", "definition" : "Definition-3" },
+                    { "term" : "Term-4", "definition" : "Definition-4" },
+                    { "term" : "Term-5", "definition" : "Definition-5" },
+                    { "term" : "Term-6", "definition" : "Definition-6" },
+                    { "term" : "Term-7", "definition" : "Definition-7" },
+                    { "term" : "Term-8", "definition" : "Definition-8" },
+                    { "term" : "Term-9", "definition" : "Definition-9" },
+                    { "term" : "Term-10", "definition" : "Definition-10" }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "Geography 3Q",
+        "sets": [
+            {
+                "setName": "Extreme Climates",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
+                ]
+            },
+            {
+                "setName": "Volcanic Tetonic Plates",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
+                    
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "History 3Q",
+        "sets": [
+            {
+                "setName": "World War Two",
+                "cards": [
+                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
+                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
+                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
+                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
+                    
+                ]
+            },
+            {
+                "setName": "Spanish Civil War",
+                "cards": [
+                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
+                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
+                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                    
+                ]
+            },
+            
+        ]
+    },
+]
