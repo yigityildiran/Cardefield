@@ -66,8 +66,8 @@
             {
                 "setName": "World War One",
                 "cards": [
-                    { "term" : "Term-1", "definition" : "Definition-1" },
-                    { "term" : "Term-2", "definition" : "Definition-2" },
+                    { "term" : "When did it start?", "definition" : "The war started in 28 July 1914." },
+                    { "term" : "How did it start?", "definition" : "It started because of the assasination of Archduke Franz Ferdinand of Austria." },
                     { "term" : "Term-3", "definition" : "Definition-3" },
                     { "term" : "Term-4", "definition" : "Definition-4" },
                     { "term" : "Term-5", "definition" : "Definition-5" },
@@ -116,22 +116,7 @@
                     { "term" : "Term-5", "definition" : "Definition-5" }
                 ]
             }, 
-            {
-                "setName": "Density",
-                "cards": [
-                    { "term" : "Term-1", "definition" : "Definition-1" },
-                    { "term" : "Term-2", "definition" : "Definition-2" },
-                    { "term" : "Term-3", "definition" : "Definition-3" },
-                    { "term" : "Term-4", "definition" : "Definition-4" },
-                    { "term" : "Term-5", "definition" : "Definition-5" },
-                    { "term" : "Term-6", "definition" : "Definition-6" },
-                    { "term" : "Term-7", "definition" : "Definition-7" },
-                    { "term" : "Term-8", "definition" : "Definition-8" },
-                    { "term" : "Term-9", "definition" : "Definition-9" },
-                    { "term" : "Term-10", "definition" : "Definition-10" }
-                ]
-            }
-        ]
+                    ]
     },
     {
         "categoryName": "Geography 2Q",
@@ -139,15 +124,12 @@
             {
                 "setName": "Tourism",
                 "cards": [
-                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
-                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
-                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                    { "term" : "What is Tourism?", "definition" : "Tourism is a social, cultural and economic phenomenon which entails the movement of people to countries or places outside their usual environment for personal or business/professional purposes." },
+                    { "term" : "Why Tourism important for Economy?", "definition" : "Tourism offers great opportunities for emerging economies and developing countries. It creates jobs, strengthens the local economy, contributes to local infrastructure development." },
+                    { "term" : "The Largest Industry", "definition" : "Global Tourism Industry is the largest industry with a global economica contribution of US 7.6 Trillion." },
+                    { "term" : "World's Top Tourist Destination", "definition" : "It is France with 84.5 million tourists." },
+                    { "term" : "The Effect of Tourism to Jobs ", "definition" : "1/10 jobs are supported by Tourism industry across the world." },
+                    { "term" : "Sustainability of Tourism", "definition" : "The aim of sustainable tourism is to increase the benefits and to reduce the negative impacts caused by tourism for destinations. This can be achieved by: Protecting natural environments, wildlife and natural resources when developing and managing tourism activities." }
                 ]
             },
             {
@@ -158,26 +140,10 @@
                     { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
                     { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
                     { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
                     { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
                 ]
-            },
-            {
-                "setName": "Energy Resources",
-                "cards": [
-                    { "term" : "Term-1", "definition" : "Definition-1" },
-                    { "term" : "Term-2", "definition" : "Definition-2" },
-                    { "term" : "Term-3", "definition" : "Definition-3" },
-                    { "term" : "Term-4", "definition" : "Definition-4" },
-                    { "term" : "Term-5", "definition" : "Definition-5" },
-                    { "term" : "Term-6", "definition" : "Definition-6" },
-                    { "term" : "Term-7", "definition" : "Definition-7" },
-                    { "term" : "Term-8", "definition" : "Definition-8" },
-                    { "term" : "Term-9", "definition" : "Definition-9" },
-                    { "term" : "Term-10", "definition" : "Definition-10" }
-                ]
             }
+            
         ]
     },
     {
@@ -197,19 +163,15 @@
             {
                 "setName": "Exothermic and Endothermic Reactions",
                 "cards": [
-                    { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
-                    { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
-                    { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
+                    { "term" : "Exothermic Reaction", "definition" : "When a chemical reaction happens, energy is transferred to or from the surroundings. When energy is transferred to the surroundings, this is called an exothermic reaction, and the temperature of the surroundings increases." },
+                    { "term" : "Endothermic Reaction", "definition" : "endothermic reaction occurs when the system gains heat from the surroundings and so the temperature of the surroundings decreases (gets cold)." },
+                    { "term" : "What is the unit of these reactions?", "definition" : "The unit of Endothermic and Exothermic reactions is joule." },
+                    { "term" : "Example of an Exothermic Reaction", "definition" : "Economic Interest and Industrial Revolution" },
+                    { "term" : "Example of an Endothermic Reaction", "definition" : "Burning of coal" },
+                    { "term" : "Enthalpy of Endothermic", "definition" : "Enthalphy increases in Endothermic reactions" },
+                    { "term" : "Enthalphy of Exothermic", "definition" : "Enthalphy decreases in Exothermic reactions." },
+                    
+                    
                 ]
             },
             {
@@ -221,10 +183,7 @@
                     { "term" : "Term-4", "definition" : "Definition-4" },
                     { "term" : "Term-5", "definition" : "Definition-5" },
                     { "term" : "Term-6", "definition" : "Definition-6" },
-                    { "term" : "Term-7", "definition" : "Definition-7" },
-                    { "term" : "Term-8", "definition" : "Definition-8" },
-                    { "term" : "Term-9", "definition" : "Definition-9" },
-                    { "term" : "Term-10", "definition" : "Definition-10" }
+                    { "term" : "Term-7", "definition" : "Definition-7" }
                 ]
             }
         ]
@@ -260,16 +219,14 @@
             {
                 "setName": "Periodicity",
                 "cards": [
-                    { "term" : "Term-1", "definition" : "Definition-1" },
-                    { "term" : "Term-2", "definition" : "Definition-2" },
-                    { "term" : "Term-3", "definition" : "Definition-3" },
-                    { "term" : "Term-4", "definition" : "Definition-4" },
-                    { "term" : "Term-5", "definition" : "Definition-5" },
-                    { "term" : "Term-6", "definition" : "Definition-6" },
-                    { "term" : "Term-7", "definition" : "Definition-7" },
-                    { "term" : "Term-8", "definition" : "Definition-8" },
-                    { "term" : "Term-9", "definition" : "Definition-9" },
-                    { "term" : "Term-10", "definition" : "Definition-10" }
+                    { "term" : "What is Periodicity?", "definition" : "Periodicity refers to trends or recurring variations in element properties with increasing atomic number. Periodicity is caused by regular and predictable variations in element atomic structure." },
+                    { "term" : "Use of Periodicity", "definition" : "Periodicity is used to make predictions about how elements will behave in chemical reactions." },
+                    { "term" : "Periodic Law", "definition" : "Law states that when elements are arranged in order of increasing atomic number, there is a periodic repetition of their chemical and physical properties." },
+                    { "term" : "Properties that Display Periodicity", "definition" : "Ionization Energy, Electronegativity, Atomic Radius and Electron Affinity" },
+                    { "term" : "Ionization Energy", "definition" : "The energy needed to completely remove an electron from an atom or ion." },
+                    { "term" : "Electronegativity", "definition" : "A measure of how readily an atom forms a chemical bond." },
+                    { "term" : "Atomic Radius", "definition" : "The atomic radius of a chemical element is a measure of the size of its atom" },
+                    { "term" : "Electron Affinity", "definition" : "Electron Affinity is the amount of energy liberated when an electron is added to a neutral atom to form a negatively charged ion." }
                 ]
             }
         ]
@@ -280,18 +237,12 @@
             {
                 "setName": "Extreme Climates",
                 "cards": [
-                    { "term" : "Slavery", "definition" : "All ancient civilizations knew slavery such as Ancient Egypt, Mesopotamia, Greeks and Romans." },
-                    { "term" : "Trans-Atlantic Trade", "definition" : "Segment of the global slave trade that transported between 10 million and 12 million enslaved Africans across the Atlantic Ocean to the Americas from the 16th to the 19th century." },
-                    { "term" : "Triangular Trade", "definition" : "The trade routes formed a triangle, becoming known as the triangular trade. These routes were used many times for Manufactured goods from Europe to Africa, Slaves from Africa to the Americas, Raw materials (cotton, tobacco, sugar) to Europe." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
+                    { "term" : "What is an Extreme Climate?", "definition" : "Extreme climate and weather events are unusual and rare events that often cause a lot of damage both to nature and to people. They take place in the air, in the ocean, and on the land." },
+                    { "term" : "Types of Extreme Weather Events", "definition" : "Heatwaves, Cold snaps, Tropical cyclones, Droughts, Torrential rains." },
+                    { "term" : "6 Forms of Extreme Weather", "definition" : "Tornado, Blizzard, Dust Storm, Flood, Haild Storm, Ice Storm" },
+                    { "term" : "Some Consequences of Extreme Weather Events ", "definition" : "Wildfires, Floooding, Famines and Climate Migrations." },
+                    { "term" : "8 Countries with the World's Most Extreme Climates", "definition" : "Russia, USA, Kenya, Netherlands, Australia, India, Iceland and Denmark" },
+                    { "term" : "Deadliest Weather Event", "definition" : "Hurricane which killed estimated 300,000 in Bangladesh on November 12-13, 1970." }
                 ]
             },
             {
@@ -300,14 +251,7 @@
                     { "term" : "Colonialism", "definition" : "Colonialism is a policy of control by one people or power over other people or areas, often by establishing colonies and generally with the aim of economic dominance. In the process of colonisation, colonisers may impose their religion, language, economics, and other cultural practices." },
                     { "term" : "Imperialism", "definition" : "Imperialism is a state policy or a political strategy that consists in extending power by territorial acquisition or by extending political and economic control outward over other areas. Imperialism oftentimes involves the use of military and economic power, and always aims for more expansion and collective or individual domination." },
                     { "term" : "Forms of Imperialism", "definition" : "There are four forms of Imperialism. These are Colony, Sphere of Influence, Economic Imperialism and Protectorate" },
-                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
-                    
-                    
+                    { "term" : "Reasons for Imperialism", "definition" : "Economic Interest and Industrial Revolution" }
                 ]
             }
         ]
@@ -327,14 +271,7 @@
                     { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
                     { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
                     { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
-                    { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." },
                     { "term" : "Abolition of Slavery in British Empire", "definition" : "1807 = slave trade abolished in British Empire -> no slaves  carried from Africa in British ships." }
-                    
                 ]
             },
             {
